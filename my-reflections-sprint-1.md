@@ -9,8 +9,8 @@ In addition to the challenge specific reflections, answer the following question
 ### In a couple of sentences, how would you describe the command line in plain English? Can you think of an analogy for it?
 The command line is a text to prompt interface that speaks directly to a computers operating system
 
-I struggle to draw comparison with an analogy that is more analogue based, but maybe something like our minds could be a good comparison to the command line.
-Imagine that your brain is an operating system, and the command line interface is your conciousness. Text to prompt are what mobilises your thoughts (text) to action (prompt) in the interface.
+I struggle to draw comparison with an analogy that is more analogue based, but maybe something like our minds could be a good comparison to draw with the command line.
+Imagine that your brain is an operating system, and the command line interface is your conciousness. Text to prompt are what mobilises your thoughts (text) to action (prompt) 
 
 
 ### Did you stick to the timebox guidelines? If not, what change would you make next time?
@@ -45,7 +45,7 @@ I'm going to draw a really bad comparison between git & github with a Liliput Li
 Liliputs are communal libraries, which are scattered accross the country in lots of different local communities and each and every single one of them are filled with (terrible) books.
 Like liliput holds books, github holds project files which can be accessed by the online community. 
 Usually someone manages the liliput and removes books, which could be seen as similar to staging and committing adjustments to code.
-Git is like the wooden liliput frame/ shelf which holds all the books. It mobilises the function of collaboration by being the container for it....
+Git is like the wooden liliput frame/ shelf which holds all the books. It mobilises the function of collaboration by being the container for it.... 
 
 
 ### Do you think you would still remember the difference a week from now if you didn't revisit the material?
@@ -113,8 +113,7 @@ Not that I can recall. For me the understanding is gradual rather than a click.
 
 
 ### Reflect on this activity. When did you feel frustrated?
-This was a good activity, not all the answers provided and I needed to solve a few problems.
-I felt a bit confused when it didn't work. Initially my .html file wasn't pushing and I couldn't work out why. It turns out I needed to do <git add index.html > before committing it. and then I struggled to push it, because I was pushing from the index.html directory rather than the main directory!
+This was a good activity, not all the answers were provided so I had to do a bit of problem solving. Initially my .html file wasn't pushing and I couldn't figure out why. It turns out I needed to do <git add index.html > before committing it. and then I struggled to push it, because I was pushing from the index.html directory rather than the main directory. I had a play around and eventually managed to get everything online
 
 
 ### If you didn't already know that this is the way websites are made, was it what you pictured? How does the reality of this process differ from your preconceptions?
