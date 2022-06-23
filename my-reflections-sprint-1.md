@@ -20,7 +20,7 @@ I did not stick with the timebox guidelines but I'm happy with that. I spent a l
 ### Name 5 commands you used, and what they do.
 
 1. cd = change directory 
-2. ls = lists the files
+2. ls = lists the files in the directory
 3. Command+K = clears the terminal
 4. Open . = opens a directory file currently in the terminal
 5. Open . -a Safari = opens file in safari (or other programme you type in its place)
@@ -35,15 +35,15 @@ The terminal is a lot less intimidating than I had imagined, one wrong line of c
 <!-- Copy your reflection answers into this file -->
 
 ### What's the difference between git and GitHub?
-Git is a sofware tool & github is a service.
+Git is a sofware tool & github is a hosting service.
 Git is version control software that allows developers to collaborate without writing over eachothers changes.
 Git Hub provides file hosting, primarily it is used by developers to share open source projects and connect with eachother
 
 
 ### Can you think of an analogy to describe them?
 I'm going to draw a really bad comparison between git & github with a Liliput Library.
-Liliputs are communal libraries, which are scattered accross the country in lots of different local communities and each and every single one of them are filled with (terrible) books.
-Like liliput holds books, github holds project files which can be accessed by the online community. 
+Liliputs are communal libraries, which are scattered accross the country in lots of different local communities and each and every single one of them are filled with (mostly terrible) books.
+Like liliput holds books, github holds project files which can be accessed by the community. It is collaborative and the users determine the library, etc.
 Usually someone manages the liliput and removes books, which could be seen as similar to staging and committing adjustments to code.
 Git is like the wooden liliput frame/ shelf which holds all the books. It mobilises the function of collaboration by being the container for it.... 
 
