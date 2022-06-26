@@ -124,16 +124,29 @@ Definitely had no idea! It's far from what I pictured, my preconception was that
 # Thinking like a programmer
 
 ### What is your process so far for solving problems?
-
+In the context of programming and study, if I have hurdles I like to try and break the problem down into pieces, or give myself an overview of the issue in front of me by verbalising the problem. Verbalising (or writing down) my issue helps to assist in my comprehension of the problem. Often if I can verbalise the problem, then I have the correct phrasing to research it. 
 
 
 
 
 # Introduce yourself
 
-### What was it like trying to summarise yourself to a group of strangers? 
+"Hi everyone, Happy Matariki! ✨ ✨ 
 
+My name is Veeta, I'm Ukrainian, my family immigrated to NZ in 1992 after the collapse of the Soviet Union. 
+I live in Makarora with my wee toddler & partner.
+
+In terms of value/ identity I have been thinking about how important it is to have a strong core value system.
+I think identity and values are both malleable and interchangeable, and that you need to actively challenge yourself in these areas in order to not digress. 
+Finding core values within myself, outside of what my peers are up to, or what the culture is prescribing has been really crucial in helping me find a strong sense of personal identity.
+
+My original career path was in fashion, but I found myself working in a crypto mining company, which is where I fell in love with blockchain technology. After this I knew I needed to dive deeper and pursue studying web dev. My coding skills are still at myspace html levels so I’m very excited to upskill lol
+
+Looking forward to getting to know you all, and have really loved reading everyones intro’s - you all seem so sweet."
+
+### What was it like trying to summarise yourself to a group of strangers? 
+I don't do something like this very often so it was a bit uncomfortable, but I didn't mind after hitting the send button. everyone is in the same position with their introductions so it's interesting to see how people describe themselves and I'm glad to be a part of that
 
 
 ### Could you feel your ego? Were you self conscious? 
-
+I was self conscious for a few seconds but ultimately happy to put myself out there to the group, for the most part I am quite private and insular so challenging this was an interesting experience 
