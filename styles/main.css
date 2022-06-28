@@ -1,4 +1,9 @@
-h1{
+body{
+      background-color: darksalmon;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+      
+}  
+  h1{
 color: rgb(79, 135, 119) 
 } 
 
@@ -9,3 +14,4 @@ h2{
 button {
  color: rgb(255, 174, 219)
 }
+
