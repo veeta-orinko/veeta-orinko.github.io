@@ -1,4 +1,46 @@
 
+
+#thumbnail2 {
+  float: top;
+  display: grid;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+  width: 80%;
+}
+
+#thumbnail1 {
+
+
+  float: right;
+
+
+}
+
+.bloglist {
+
+  color:rgb(58, 117, 255);
+  list-style-type: none;
+  margin-left: 12%;
+  padding-left: 0;
+  font-size: 120%;
+  font-family:  'Fira Mono', monospace;
+}
+
+.body {
+  
+      background-color: rgb(251, 198, 233);
+        margin: 0;
+        padding: 0;
+        border: 10px solid #fd4300;
+        }
+      
+
+.font {
+color: rgb(255, 60, 0)
+}
+
+
 .about {
   color: rgb(255, 90, 1);
   font-size: 70px; 
@@ -45,6 +87,7 @@ h3 {
   font-size: 30px;
 }
 
+
 .a {
   color:rgb(255, 60, 0);
   font-size: 30px;
@@ -85,38 +128,6 @@ margin-bottom: 1em;
   font-size: 30px;
 }
 
-#thumbnail2 {
-  float: top;
-  display: grid;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 100px;
-  width: 80%;
-}
-
-#thumbnail1 {
-
-
-  float: right;
-
-
-}
-
-
-.body {
-  
-      background-color: rgb(251, 198, 233);
-        margin: 0;
-        padding: 0;
-        border: 10px solid #fd4300;
-        }
-      
-
-.font {
-color: rgb(255, 60, 0)
-}
-
-
 .center {
   display: block;
   margin-left: auto;
@@ -124,10 +135,6 @@ color: rgb(255, 60, 0)
   width: 80%;
 }
 
-.thumbnailanimate {
-
-
-}
 
 .button {
   margin-left: 50px;
@@ -167,6 +174,10 @@ color: rgb(255, 60, 0)
 
 .lavender {
   color: rgb(174, 149, 205);
+}
+
+.niceblue {
+  color:#5095fb
 }
 
 .thick-blue-border {
