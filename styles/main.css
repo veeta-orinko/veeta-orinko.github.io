@@ -195,6 +195,7 @@ margin-bottom: 1em;
 .lavender {
   color: rgb(174, 149, 205);
   font-size:180%
+  
 }
 
 .niceblue {
@@ -208,5 +209,11 @@ margin-bottom: 1em;
   border-style: solid;
 }
 
-
+.blog-text {
+  color: #5095fb; ;
+  font-size: 14px;
+  margin-left:25%;
+  margin-right:29%;
+  display: center;
+}
 
